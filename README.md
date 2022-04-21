@@ -1,2 +1,2 @@
-# szvlab
-A collection of codes for volatility analysis
+# vlab
+- A collection of codes for volatility analysis
